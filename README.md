@@ -5,7 +5,7 @@
 
 <h1>Figma</h1>
 [Figma do projeto](https://www.figma.com/design/bKKIv0BSdVrzlMG79phJop/7DaysofCode---Wordle?node-id=2-55) <br>
-[Figma do projeto]( ) <br>
+
 
 <h1>Vídeos propostos</h1>
 
