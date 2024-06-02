@@ -20,14 +20,10 @@
 5. [Criando Layouts com CSS Grid Layout](https://www.alura.com.br/artigos/criando-layouts-com-css-grid-layout) <br>
 6. [Reset CSS: O que é, exemplos, como Criar e usar](https://www.alura.com.br/artigos/o-que-e-reset-css) <br>
 7. [A função Math.random() no JavaScript na criação de números pseudoaleatórios](https://www.alura.com.br/artigos/funcao-math-random-javascript-numeros-pseudoaleatorios) <br>
-6. [JavaScript - Testes - Alura](https://techguide.sh/pt-BR/path/front-end/javascript-testing/) <br>
-6. [JavaScript - Jest - Alura](https://techguide.sh/pt-BR/path/front-end/jest/) <br>
+8. [JavaScript - Testes - Alura](https://techguide.sh/pt-BR/path/front-end/javascript-testing/) <br>
+9. [JavaScript - Jest - Alura](https://techguide.sh/pt-BR/path/front-end/jest/) <br>
+10. [Document.querySelector() - Mozilla](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/querySelector)<br>
+11. [Node: parentNode property - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Node/parentNode)<br>
+12. [Element: input event - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/Element/input_event)<br>
+  
 
-
-
-
-<h1>Referências externas</h1>
-
-1.[Flexbox](https://flexboxfroggy.com/) <br>
-2.[TinyPNG](https://tinypng.com/) <br>
-3.[FontAwesome](https://fontawesome.com/) <br>
